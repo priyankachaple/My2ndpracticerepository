@@ -1,4 +1,4 @@
 error.log
 *.log
-dir\
-static.test.txt
+\dir\
+static\dir
